@@ -21,7 +21,7 @@ body {
     font-size: 48px;
     color: #d9dcd6;
 }
-
+/* Header Display */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,16 +38,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* link color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraph font sizing */
 p {
     font-size: 16px;
 }
-
+/* Hero content Display */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,7 +56,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Hero Positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,7 +72,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Benefits Section Display */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -131,7 +131,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* SEO Display */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -140,7 +140,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* ORM Display */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -149,7 +149,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* SMM Display */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -158,7 +158,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* images settings */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -185,13 +185,13 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer Display */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    color: yellow;
+    color: teal;
 }
 
 .footer h2 {
